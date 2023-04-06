@@ -12,4 +12,4 @@
 - soy fan de MC Donald´s
 - me gustan los gatos y perros. 
 
-![image]()
+![image](https://github.com/pdepjm/2023-tp0-presentacion-ArielGuerra/blob/main/img20230325_19323259.jpg)
